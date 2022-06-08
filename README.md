@@ -8,5 +8,7 @@ The Waterfall technique is a sequential process with specific objectives for eac
 
 ### 2. Agile Approach
 
+Teamwork, tight engagement with customers and stakeholders, adaptability, and the capacity to adjust swiftly to change are all hallmarks of the agile approach. Iterations are the fundamental components of agile development; each one involves planning, analysis, design, programming, and testing. The agile approach does not necessitate extensive documentation at the start. Because things can alter as the project progresses, managers don't need to prepare far ahead. Just-in-time planning is possible as a result. Putting – "functioning software over thorough documentation -" as one of the Agile Manifesto ideals implies, the goal is to write documentation with information that is necessary to move forward when it makes the most sense.
+
 
 ![image](https://user-images.githubusercontent.com/58620711/172604783-bc5c67d1-6050-4d5b-a24e-bdde1f846ec0.png)
