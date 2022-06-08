@@ -17,3 +17,9 @@ Teamwork, tight engagement with customers and stakeholders, adaptability, and th
 
 ![image](https://user-images.githubusercontent.com/58620711/172620504-7d79b7b0-3719-44ae-9e4d-bc9b29277e8d.png)
 image from umsl.edu
+
+## Types of Software documentation
+
+![image](https://user-images.githubusercontent.com/58620711/172625535-dc3cf816-38cb-4067-89cf-0832052c05d1.png)
+
+image from altexsoft.com
