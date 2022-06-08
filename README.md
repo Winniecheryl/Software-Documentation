@@ -7,7 +7,7 @@ There are two approaches; Waterfall and Agile
 The Waterfall technique is a sequential process with specific objectives for each development phase. In the early stages of a project, waterfall teams devote a significant amount of time to product planning. They draw up a detailed outline of the primary aims and objectives, as well as a plan for how the work will be done. Before beginning any engineering steps, waterfall teams aim to establish detailed documentation. For projects with few to no changes in progress, careful planning is beneficial since it allows for accurate budgeting and schedule estimations. Waterfall planning, on the other hand, has been shown to be unsuccessful for long-term development since it fails to account for potential changes and contingencies as they arise. The Waterfall technique is a sequential process with specific objectives for each stage. 
 
 ![image](https://user-images.githubusercontent.com/58620711/172620047-adf55b99-9f48-4103-b097-1f21193763ec.png)
-image from kruschecompany.com
+<sub>image from kruschecompany.com</sub>
 
 
 ### 2. Agile Approach
@@ -16,10 +16,9 @@ Teamwork, tight engagement with customers and stakeholders, adaptability, and th
 
 
 ![image](https://user-images.githubusercontent.com/58620711/172620504-7d79b7b0-3719-44ae-9e4d-bc9b29277e8d.png)
-image from umsl.edu
+<sub>image from umsl.edu</sub>
 
 ## Types of Software documentation
 
 ![image](https://user-images.githubusercontent.com/58620711/172625535-dc3cf816-38cb-4067-89cf-0832052c05d1.png)
-
-image from altexsoft.com
+<sub>image from altexsoft.com</sub>
