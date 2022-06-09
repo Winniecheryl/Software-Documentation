@@ -1,6 +1,6 @@
 # Hardware and Software Documentation
 
-This artcile briefly describes hardware and software documentaion of projects/products. It illustrates types of documentation, approaches, why documentation is a necessity for most companies and/or individuals, tools for documentation and the best documentation practises. 
+This artcile briefly describes hardware and software documentation of projects/products. It illustrates types of documentation, approaches, why documentation is a necessity for most companies and/or individuals, tools for documentation and the best documentation practises. 
 
 Let's begin with simply exaplining hardware documentation. 
 
@@ -8,10 +8,15 @@ Let's begin with simply exaplining hardware documentation.
 User manuals and installation manuals in any medium, in human or machine readable format, are referred to as hardware documentation.
 ![image](https://user-images.githubusercontent.com/58620711/172807731-c9bc6190-e2ab-4424-a87e-5f242f9317ab.png)
 <sub>image from flickr.com</sub>
+
 ## Software-Documentation
 
+Software documentation is the information that describes the product to the people who develop, deploy, and use it in the software development process.
+
 ### Software development life cycle(documentation approaches)
+
 There are two approaches; Waterfall and Agile 
+
 #### 1. Waterfall approach
 
 The Waterfall technique is a sequential process with specific objectives for each development phase. In the early stages of a project, waterfall teams devote a significant amount of time to product planning. They draw up a detailed outline of the primary aims and objectives, as well as a plan for how the work will be done. Before beginning any engineering steps, waterfall teams aim to establish detailed documentation. For projects with few to no changes in progress, careful planning is beneficial since it allows for accurate budgeting and schedule estimations. Waterfall planning, on the other hand, has been shown to be unsuccessful for long-term development since it fails to account for potential changes and contingencies as they arise. The Waterfall technique is a sequential process with specific objectives for each stage. 
