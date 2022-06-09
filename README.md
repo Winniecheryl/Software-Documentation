@@ -5,8 +5,9 @@ This artcile briefly describes hardware and software documentaion of projects/pr
 Let's begin with simply exaplining hardware documentation. 
 
 ## Hardware documenation 
-
-
+User manuals and installation manuals in any medium, in human or machine readable format, are referred to as hardware documentation.
+![image](https://user-images.githubusercontent.com/58620711/172807731-c9bc6190-e2ab-4424-a87e-5f242f9317ab.png)
+<sub>image from flickr.com</sub>
 ## Software-Documentation
 
 ### Software development life cycle(documentation approaches)
