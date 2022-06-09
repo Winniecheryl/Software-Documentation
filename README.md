@@ -12,6 +12,7 @@ User manuals and installation manuals in any medium, in human or machine readabl
 ## Software-Documentation
 
 Software documentation is the information that describes the product to the people who develop, deploy, and use it in the software development process.
+A piece of software documentation is a written document that is frequently included with a program. This facilitates the lives of all project participants. It could include everything from API documentation to build notes to simple help information. In software development, it's a crucial step. It is a necessary component of any computer code development process. Furthermore, computer code practitioners are often concerned with the value, extent of use, and quality of actual documentation throughout development, as well as its upkeep throughout the entire process. Motivated by Novatel opposition's requirements, a world-leading business building a package to support the global navigation satellite system, and based mostly on the results of a previous systematic mapping,
 
 ### Software development life cycle(documentation approaches)
 
