@@ -61,3 +61,5 @@ Take a look at this image, without saying anything else, it is enough to explain
 
 ![image](https://user-images.githubusercontent.com/58620711/172845085-3533c0ee-762a-4ca8-9239-7de815fa75e7.png)
 <sub>(Source: CommitStrip.com)</sub>
+
+It is always necessary for a programmer to have reliable documentation. Documentation aids in keeping track of all parts of a program and enhances software quality. Development, maintenance, and knowledge transmission to other developers are its key goals. Successful documentation will make information readily available, restrict the number of user entry points, assist new users in learning rapidly, simplify the product, and reduce support costs.
