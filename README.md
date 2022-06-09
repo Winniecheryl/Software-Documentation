@@ -35,6 +35,23 @@ Teamwork, tight engagement with customers and stakeholders, adaptability, and th
 <sub>image from umsl.edu</sub>
 
 ## Types of Software documentation
+Software documentation comes in a variety of shapes and sizes.
+
+1. Documentation of Requirements:
+
+It's a description of how the software should work and what kind of environment it should run in to get the greatest results. These are created when the software is being developed and are also distributed to the testing groups.
+
+2. Documentation of the Architecture:
+
+Architecture documentation is a sort of design documentation. It has relatively little code and focuses on the system's components, their functions, and how they work. It also depicts how data moves around the system.
+
+3. Technical Reports:
+
+These include the software's technical features, such as APIs and algorithms. It is mostly designed for programmers.
+
+4. Documentation for End-Users
+
+These are made for the end user, as the name implies. These are support resources for the end user.
 
 ![image](https://user-images.githubusercontent.com/58620711/172625535-dc3cf816-38cb-4067-89cf-0832052c05d1.png)
 <sub>image from altexsoft.com</sub>
