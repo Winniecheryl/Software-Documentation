@@ -55,3 +55,9 @@ These are made for the end user, as the name implies. These are support resourc
 
 ![image](https://user-images.githubusercontent.com/58620711/172625535-dc3cf816-38cb-4067-89cf-0832052c05d1.png)
 <sub>image from altexsoft.com</sub>
+
+## Importance of Software documentation
+Take a look at this image, without saying anything else, it is enough to explain why we need to document everything we do in software development process
+
+![image](https://user-images.githubusercontent.com/58620711/172845085-3533c0ee-762a-4ca8-9239-7de815fa75e7.png)
+<sub>(Source: CommitStrip.com)</sub>
